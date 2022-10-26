@@ -20,6 +20,7 @@ With this project users can...
 - Deposit, withdraw, and All data hidden from nav when not logged in
 - Log-out function
 
+<img src="badbank.gif" width='720' height='720'>
 
 ## license
 MIT
